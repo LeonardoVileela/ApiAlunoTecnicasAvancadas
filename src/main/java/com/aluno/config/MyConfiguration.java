@@ -1,4 +1,4 @@
-package com.aluno.aluno.config;
+package com.aluno.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;

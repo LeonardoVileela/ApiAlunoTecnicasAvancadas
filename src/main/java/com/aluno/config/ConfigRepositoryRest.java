@@ -1,11 +1,11 @@
-package com.aluno.aluno.config;
+package com.aluno.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.rest.core.config.RepositoryRestConfiguration;
 import org.springframework.data.rest.webmvc.config.RepositoryRestConfigurer;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
 
-import com.aluno.aluno.aluno.Student;
+import com.aluno.domain.student.Student;
 
 @Configuration
 public class ConfigRepositoryRest implements RepositoryRestConfigurer {

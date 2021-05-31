@@ -1,4 +1,4 @@
-package com.aluno.aluno.aluno;
+package com.aluno.domain.student;
 
 import java.time.LocalDate;
 
